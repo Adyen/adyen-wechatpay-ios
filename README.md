@@ -2,7 +2,6 @@
 [WeChat SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads/iOS_Resource.html) is a static .a library, so this repo exposes a wrapper xcframework around the static library for more convenient importing of WeChat SDK specially for Swift Package Manager.
 
 ## Requirements
-Explain the requirements for using the repo (e.g. which minimum iOS version is needed to run the SDK).
 
 - For embedding the XCFramework into an xcode project, Xcode 11+ is required.
 - For integrating through Swift Package Manager, Xcode 12+ is required.
