@@ -7,9 +7,9 @@ We strongly encourage you to contribute to our repository. Find out more in our 
 ## Requirements
 Explain the requirements for using the repo (e.g. which minimum iOS version is needed to run the SDK).
 
-### For embedding the XCFramework into an xcode project, Xcode 11+ is required.
-### For integrating through Swift Package Manager, Xcode 12+ is required.
-### Supports iOS 10+.
+- For embedding the XCFramework into an xcode project, Xcode 11+ is required.
+- For integrating through Swift Package Manager, Xcode 12+ is required.
+- Supports iOS 10+.
 
 ## Installation
 
@@ -38,7 +38,7 @@ AdyenWeChatPayInternal is just a wrapper around [the original WeChat Pay SDK](ht
 Refer to the [original documentation](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).
 
 ## Support
-If you have a feature request, or spotted a bug or a technical problem, create a GitHub issue. For other questions, contact our [support team](https://support.adyen.com/hc/en-us/requests/new?ticket_form_id=360000705420).    
+If you have a feature request, or spotted a bug or a technical problem regarding the XCFramework wrapper, create a GitHub issue. For other questions or issues regarding the SDK, its better to refer to [WeChat Pay iOS SDK support](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).    
 
 ## License    
 MIT license. For more information, see the LICENSE file.
