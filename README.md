@@ -1,9 +1,10 @@
 # AdyenWeChatPayInternal
-[WeChat SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads/iOS_Resource.html) is a static .a library, so this repo exposes a wrapper xcframework around the static library for more convenient importing of WeChat SDK specially for Swift Package Manager.
+
+The [WeChat Pay SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads/iOS_Resource.html) is a static `.a` library. This repository provides an XCFramework around the static library for more convenient importing of the WeChat Pay SDK. This is especially useful when using Swift Package Manager.
 
 ## Requirements
 
-- For embedding the XCFramework into an xcode project, Xcode 11+ is required.
+- For embedding the XCFramework into an Xcode project, Xcode 11+ is required.
 - For integrating through Swift Package Manager, Xcode 12+ is required.
 - Supports iOS 10+.
 
@@ -28,13 +29,21 @@ https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_y
 :warning: _Swift Package Manager for Xcode 12.0 and 12.1 has a [know issue](https://bugs.swift.org/browse/SR-13343) when it comes to importing binary dependencies. A workaround is described [here](https://forums.swift.org/t/swiftpm-binarytarget-dependency-and-code-signing/38953)._
 
 ## Usage
-AdyenWeChatPayInternal is just a wrapper around [the original WeChat Pay SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads/iOS_Resource.html), except that it handles the importing of the dependent system frameworks and libraries and removes the need for adding `-Objc and -all_load` other linker flags to the your project build settings, but otherwise works the same.
+
+AdyenWeChatPayInternal is just a wrapper around [the original WeChat Pay SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads/iOS_Resource.html), with a few minor improvements:
+- Handles the importing of the dependent system frameworks and libraries.
+- Removes the need for adding `-Objc and -all_load` other linker flags to the your project build settings.
+
+Other than these improvements, the framework works in the same way as the original WeChat Pay SDK.
 
 ## Documentation
+
 Refer to the [original documentation](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).
 
 ## Support
-If you have a feature request, or spotted a bug or a technical problem regarding the XCFramework wrapper, create a GitHub issue. For other questions or issues regarding the SDK, its better to refer to [WeChat Pay iOS SDK support](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).    
+
+If you have a feature request, or spotted a bug or a technical problem regarding the XCFramework wrapper, create a GitHub issue. For other questions or issues regarding the SDK, contact [WeChat Pay iOS SDK support](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).    
 
 ## License    
+
 MIT license. For more information, see the LICENSE file.
