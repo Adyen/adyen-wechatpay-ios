@@ -34,7 +34,7 @@ https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_y
 
 ### Carthage
 
-1. Add `github "https://github.com/Adyen/adyen-wechatpay-ios"` to your `Cartfile`.
+1. Add `github "adyen/adyen-wechatpay-ios"` to your `Cartfile`.
 2. Run `carthage update --use-xcframeworks`.
 3. Link the framework with your target as described in [Carthage Readme](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application).
 
