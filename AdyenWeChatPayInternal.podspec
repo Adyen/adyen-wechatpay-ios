@@ -11,4 +11,7 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks    = 'AdyenWeChatPayInternal.xcframework'
   spec.ios.deployment_target  = '10.0'
   
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  
 end
