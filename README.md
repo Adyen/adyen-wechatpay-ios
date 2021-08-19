@@ -27,6 +27,18 @@ https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_y
 :warning: _Please make sure to use Xcode 12.0+ when adding `AdyenWeChatPayInternal` using Swift Package Manager._
 
 :warning: _Swift Package Manager for Xcode 12.0 and 12.1 has a [know issue](https://bugs.swift.org/browse/SR-13343) when it comes to importing binary dependencies. A workaround is described [here](https://forums.swift.org/t/swiftpm-binarytarget-dependency-and-code-signing/38953)._
+### CocoaPods
+
+1. Add `pod 'AdyenWeChatPayInternal'` to your `Podfile`.
+2. Run `pod install`.
+
+### Carthage
+
+1. Add `github "https://github.com/Adyen/adyen-wechatpay-ios"` to your `Cartfile`.
+2. Run `carthage update --use-xcframeworks`.
+3. Link the framework with your target as described in [Carthage Readme](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application).
+
+Note: for non-M1 mac use workarounds from [here](https://github.com/Carthage/Carthage/issues/3019#issuecomment-665136323) 
 
 ## Usage
 
