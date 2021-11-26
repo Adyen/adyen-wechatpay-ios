@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdyenWeChatPayInternal-Swift.h</key>
 		<data>
-		oCECQaFcMMfLyPL+CNXwknHsNNg=
+		I+T7gO5K9vl8kMl7l0am44IuQq0=
 		</data>
 		<key>Headers/AdyenWeChatPayInternal.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/WXApi.h</key>
 		<data>
-		ZuiG048tpHcwD307C/d9shcyZNo=
+		X2ZgvOm6+0JcN/YIgdcu85rHHNE=
 		</data>
 		<key>Headers/WXApiObject.h</key>
 		<data>
-		tnYxt4QMA9pohDm3ALcUjzvzMdM=
+		5nm1inINg7V624P/P0mtHjt3fTA=
 		</data>
 		<key>Headers/WechatAuthSDK.h</key>
 		<data>
@@ -26,67 +26,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lcxRsmOMtRFZk4aIECddfm7tFIo=
+		VJcMnKr2aRalbqXRcqA+qHCDjZ4=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm.swiftdoc</key>
 		<data>
-		/2+VFL8uxlUS/C73iLz3RyGkU9Y=
+		BdGG+Mlox/XqJgTTiyKNzA+e1KU=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm.swiftinterface</key>
 		<data>
-		qK/Q4G8ILefkUNIuKwZTvecwxgg=
+		lGkR6N3L9Ah9GTagsCJg6QLLhpg=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm.swiftmodule</key>
 		<data>
-		D2dEEJzl3S7QyPgxxkNg6mpIWuM=
+		zMr9NaHEvPsT55GlqpaWdDzYxLo=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ZUohch8OHMGjJdZMKkL9UM5eSSs=
+		YfvYOJZLORlggd7mX8qIW2zQBBs=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		tlwnCgP8YXv0JgW36Y2UgGdf25A=
+		IGFonJJUz+3zSb/8pHhUEhLhhOg=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		8dzMaOG1LaGpeWyTB4jF+Ofj810=
+		6lcN0KCZ/hBArQ1FQPTE/qC/hUM=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		ZUohch8OHMGjJdZMKkL9UM5eSSs=
+		YfvYOJZLORlggd7mX8qIW2zQBBs=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		tlwnCgP8YXv0JgW36Y2UgGdf25A=
+		IGFonJJUz+3zSb/8pHhUEhLhhOg=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8dzMaOG1LaGpeWyTB4jF+Ofj810=
+		6lcN0KCZ/hBArQ1FQPTE/qC/hUM=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		/2+VFL8uxlUS/C73iLz3RyGkU9Y=
+		BdGG+Mlox/XqJgTTiyKNzA+e1KU=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		qK/Q4G8ILefkUNIuKwZTvecwxgg=
+		lGkR6N3L9Ah9GTagsCJg6QLLhpg=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		D2dEEJzl3S7QyPgxxkNg6mpIWuM=
+		zMr9NaHEvPsT55GlqpaWdDzYxLo=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		/2+VFL8uxlUS/C73iLz3RyGkU9Y=
+		BdGG+Mlox/XqJgTTiyKNzA+e1KU=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7.swiftinterface</key>
 		<data>
-		qK/Q4G8ILefkUNIuKwZTvecwxgg=
+		lGkR6N3L9Ah9GTagsCJg6QLLhpg=
 		</data>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		D2dEEJzl3S7QyPgxxkNg6mpIWuM=
+		zMr9NaHEvPsT55GlqpaWdDzYxLo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oCECQaFcMMfLyPL+CNXwknHsNNg=
+			I+T7gO5K9vl8kMl7l0am44IuQq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			W58j0rZw4hcT8AAYCncEXujc6iso9IemZXmRtD+ZrM4=
+			aIgb5TlumMeorLvFEjIq3V8AQWplj3RNYelwDerogmc=
 			</data>
 		</dict>
 		<key>Headers/AdyenWeChatPayInternal.h</key>
@@ -121,22 +121,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZuiG048tpHcwD307C/d9shcyZNo=
+			X2ZgvOm6+0JcN/YIgdcu85rHHNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			5W7WUJg2IV6Mt/71MBqt1+xBLRvk81F1By7QiwllLBk=
+			vi2suYHu8h8oSkiu5n76u+V0ypUk+iy8GSPauRIGG58=
 			</data>
 		</dict>
 		<key>Headers/WXApiObject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tnYxt4QMA9pohDm3ALcUjzvzMdM=
+			5nm1inINg7V624P/P0mtHjt3fTA=
 			</data>
 			<key>hash2</key>
 			<data>
-			cgxxEUknGQu2BTGFDmaCm/ihF9KKBT6LD0819Sz0HKA=
+			nHp1MXfpkNUe3AFP7MDjnvVO2xGbu5ZLy4IOh6L/HH4=
 			</data>
 		</dict>
 		<key>Headers/WechatAuthSDK.h</key>
@@ -154,165 +154,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/2+VFL8uxlUS/C73iLz3RyGkU9Y=
+			BdGG+Mlox/XqJgTTiyKNzA+e1KU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CopABZYtxT2tiv9zpzpXn7Vj7bIlH4E4HaYs3pcM42w=
+			KiI0rwIngZ4H+tcJTfAc5UAThxw15z/ZVBAyYkwCWq8=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qK/Q4G8ILefkUNIuKwZTvecwxgg=
+			lGkR6N3L9Ah9GTagsCJg6QLLhpg=
 			</data>
 			<key>hash2</key>
 			<data>
-			k7priv4nkVRlXuSZHNTuCShhIWRvip3CxWy3p0zLMwM=
+			XRaP+d/jO6GB0xBDDh3OsCTvHKV2mdGfNBtpGcmZuOc=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D2dEEJzl3S7QyPgxxkNg6mpIWuM=
+			zMr9NaHEvPsT55GlqpaWdDzYxLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lNI4ZJOcaPXiIpL+zE4OwUkDPAa2N7Bh2sF5rcupa/g=
+			+9UlFfN8Rv7q49/GbLA6SwBc/D0o+xUwTzWJT6WnRRA=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZUohch8OHMGjJdZMKkL9UM5eSSs=
+			YfvYOJZLORlggd7mX8qIW2zQBBs=
 			</data>
 			<key>hash2</key>
 			<data>
-			U74rhuQpn1p48t/f+7+yqnQFYJLFoI5BFOGGfS+cCSw=
+			rkokc0QDbSKXepBIOtRYkppThj8t2XmOQXdeYX4YOuI=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tlwnCgP8YXv0JgW36Y2UgGdf25A=
+			IGFonJJUz+3zSb/8pHhUEhLhhOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			M7uritKNYlDQJ/vsmG7fP1AOjtOAQD4Ge5vhqqWoEu0=
+			XztzmbeXMWm7puKaqwpK0xRBnDYufS6ufApVExk/RV4=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8dzMaOG1LaGpeWyTB4jF+Ofj810=
+			6lcN0KCZ/hBArQ1FQPTE/qC/hUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ybKY86CRNMTG6UhXaoyqfPGKX51BRmyPt0W8B9Ql4Qc=
+			all299uiCyvJi/rhKJby/VETxh+pchHPQQhv/tVmZJQ=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZUohch8OHMGjJdZMKkL9UM5eSSs=
+			YfvYOJZLORlggd7mX8qIW2zQBBs=
 			</data>
 			<key>hash2</key>
 			<data>
-			U74rhuQpn1p48t/f+7+yqnQFYJLFoI5BFOGGfS+cCSw=
+			rkokc0QDbSKXepBIOtRYkppThj8t2XmOQXdeYX4YOuI=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tlwnCgP8YXv0JgW36Y2UgGdf25A=
+			IGFonJJUz+3zSb/8pHhUEhLhhOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			M7uritKNYlDQJ/vsmG7fP1AOjtOAQD4Ge5vhqqWoEu0=
+			XztzmbeXMWm7puKaqwpK0xRBnDYufS6ufApVExk/RV4=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8dzMaOG1LaGpeWyTB4jF+Ofj810=
+			6lcN0KCZ/hBArQ1FQPTE/qC/hUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ybKY86CRNMTG6UhXaoyqfPGKX51BRmyPt0W8B9Ql4Qc=
+			all299uiCyvJi/rhKJby/VETxh+pchHPQQhv/tVmZJQ=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/2+VFL8uxlUS/C73iLz3RyGkU9Y=
+			BdGG+Mlox/XqJgTTiyKNzA+e1KU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CopABZYtxT2tiv9zpzpXn7Vj7bIlH4E4HaYs3pcM42w=
+			KiI0rwIngZ4H+tcJTfAc5UAThxw15z/ZVBAyYkwCWq8=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qK/Q4G8ILefkUNIuKwZTvecwxgg=
+			lGkR6N3L9Ah9GTagsCJg6QLLhpg=
 			</data>
 			<key>hash2</key>
 			<data>
-			k7priv4nkVRlXuSZHNTuCShhIWRvip3CxWy3p0zLMwM=
+			XRaP+d/jO6GB0xBDDh3OsCTvHKV2mdGfNBtpGcmZuOc=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D2dEEJzl3S7QyPgxxkNg6mpIWuM=
+			zMr9NaHEvPsT55GlqpaWdDzYxLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lNI4ZJOcaPXiIpL+zE4OwUkDPAa2N7Bh2sF5rcupa/g=
+			+9UlFfN8Rv7q49/GbLA6SwBc/D0o+xUwTzWJT6WnRRA=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/2+VFL8uxlUS/C73iLz3RyGkU9Y=
+			BdGG+Mlox/XqJgTTiyKNzA+e1KU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CopABZYtxT2tiv9zpzpXn7Vj7bIlH4E4HaYs3pcM42w=
+			KiI0rwIngZ4H+tcJTfAc5UAThxw15z/ZVBAyYkwCWq8=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qK/Q4G8ILefkUNIuKwZTvecwxgg=
+			lGkR6N3L9Ah9GTagsCJg6QLLhpg=
 			</data>
 			<key>hash2</key>
 			<data>
-			k7priv4nkVRlXuSZHNTuCShhIWRvip3CxWy3p0zLMwM=
+			XRaP+d/jO6GB0xBDDh3OsCTvHKV2mdGfNBtpGcmZuOc=
 			</data>
 		</dict>
 		<key>Modules/AdyenWeChatPayInternal.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D2dEEJzl3S7QyPgxxkNg6mpIWuM=
+			zMr9NaHEvPsT55GlqpaWdDzYxLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lNI4ZJOcaPXiIpL+zE4OwUkDPAa2N7Bh2sF5rcupa/g=
+			+9UlFfN8Rv7q49/GbLA6SwBc/D0o+xUwTzWJT6WnRRA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
