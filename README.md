@@ -2,6 +2,11 @@
 
 The [WeChat Pay SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads/iOS_Resource.html) is a static `.a` library. This repository provides an XCFramework around the static library for more convenient importing of the WeChat Pay SDK. This is especially useful when using Swift Package Manager.
 
+Embeded WeChat SDK versions: 1.9.2
+
+> :heavy_exclamation_mark: WeChat SDK versions 1.8.6.1 and below contain UIKit symbols and cause rejection during App Store Review: "ITMS-90809: Deprecated API Usage".
+
+
 ## Requirements
 
 - For embedding the XCFramework into an Xcode project, Xcode 11+ is required.
@@ -22,7 +27,7 @@ The [WeChat Pay SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads
 https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app
 ) guide on how to add a Swift Package dependency.
 2. Use `https://github.com/Adyen/adyen-wechatpay-ios` as the repository URL.
-3. Specify the version to be at least `1.0.0`.
+3. Specify the version to be at least `2.0.0`.
 
 :warning: _Please make sure to use Xcode 12.0+ when adding `AdyenWeChatPayInternal` using Swift Package Manager._
 
@@ -38,7 +43,7 @@ https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_y
 2. Run `carthage update --use-xcframeworks`.
 3. Link the framework with your target as described in [Carthage Readme](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application).
 
-Note: for non-M1 mac use workarounds from [here](https://github.com/Carthage/Carthage/issues/3019#issuecomment-665136323) 
+Note: for non-M1 mac use workarounds from [here](https://github.com/Carthage/Carthage/issues/3019#issuecomment-665136323)
 
 ## Usage
 
