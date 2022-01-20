@@ -1,4 +1,4 @@
-name: Publish Adyen.podspec
+name: Publish AdyenWeChatPayInternal.podspec
 on: [workflow_dispatch]
 jobs:
 
@@ -12,7 +12,7 @@ jobs:
       with:
         xcode-version: latest-stable
 
-    - name: Publish Adyen.podspec
+    - name: Publish AdyenWeChatPayInternal.podspec
       run: |
         gem install cocoapods
         pod trunk push AdyenWeChatPayInternal.podspec --allow-warnings

@@ -4,7 +4,7 @@ The [WeChat Pay SDK](https://developers.weixin.qq.com/doc/oplatform/en/Downloads
 
 Embeded WeChat SDK versions: 1.9.2
 
-> :heavy_exclamation_mark: WeChat SDK versions 1.8.6.1 and below contain UIKit symbols and cause rejection during App Store Review: "ITMS-90809: Deprecated API Usage".
+:heavy_exclamation_mark: WeChat SDK versions 1.8.6.1 and below contain UIKit symbols and cause rejection during App Store Review: "ITMS-90809: Deprecated API Usage".
 
 
 ## Requirements
@@ -53,13 +53,26 @@ AdyenWeChatPayInternal is just a wrapper around [the original WeChat Pay SDK](ht
 
 Other than these improvements, the framework works in the same way as the original WeChat Pay SDK.
 
+:warning: WeChat `.a` static library does not support simulator for `arm64` architecture.
+To debug on simulator on Apple Silicon (M1) machine use debug flags
+
+```swift
+
+#if !(targetEnvironment(simulator) && arch(arm64))
+
+// Code that calls WeChat SDK
+
+#endif
+
+```
+
 ## Documentation
 
 Refer to the [original documentation](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).
 
 ## Support
 
-If you have a feature request, or spotted a bug or a technical problem regarding the XCFramework wrapper, create a GitHub issue. For other questions or issues regarding the SDK, contact [WeChat Pay iOS SDK support](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).    
+If you have a feature request, or spotted a bug or a technical problem regarding the XCFramework wrapper, create a GitHub issue. For other questions or issues regarding the SDK, contact [WeChat Pay iOS SDK support](https://developers.weixin.qq.com/doc/oplatform/en/Mobile_App/Access_Guide/iOS.html).
 
 ## License    
 
