@@ -1,4 +1,4 @@
-version = '2.1.0-beta'
+version = '2.1.0-beta.1'
 
 Pod::Spec.new do |spec|
   spec.name                   = 'AdyenWeChatPayInternal'
