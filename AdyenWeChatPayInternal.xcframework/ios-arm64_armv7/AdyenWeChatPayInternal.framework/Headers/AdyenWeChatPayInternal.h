@@ -6,9 +6,16 @@
 //
 
 #import <Foundation/Foundation.h>
+
+
+#if TARGET_IPHONE_SIMULATOR
+#else
+
 #import <AdyenWeChatPayInternal/WXApiObject.h>
 #import <AdyenWeChatPayInternal/WXApi.h>
 #import <AdyenWeChatPayInternal/WechatAuthSDK.h>
+
+#endif
 
 //! Project version number for AdyenWeChatPayInternal.
 FOUNDATION_EXPORT double AdyenWeChatPayInternalVersionNumber;
