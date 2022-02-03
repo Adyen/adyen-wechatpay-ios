@@ -54,16 +54,14 @@ AdyenWeChatPayInternal is just a wrapper around [the original WeChat Pay SDK](ht
 Other than these improvements, the framework works in the same way as the original WeChat Pay SDK.
 
 :warning: WeChat `.a` static library does not support simulator for `arm64` architecture.
-To debug on simulator on Apple Silicon (M1) machine use debug flags
+To debug on simulator use debug flags
 
 ```swift
-
-#if !(targetEnvironment(simulator) && arch(arm64))
+#if !(targetEnvironment(simulator))
 
 // Code that calls WeChat SDK
 
 #endif
-
 ```
 
 ## Documentation
