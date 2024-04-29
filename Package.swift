@@ -17,6 +17,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdyenWeChatPayInternal",
-            path: "AdyenWeChatPayInternal.xcframework")
+            path: "AdyenWeChatPayInternal.xcframework"
     ]
 )

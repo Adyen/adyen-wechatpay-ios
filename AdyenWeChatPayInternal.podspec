@@ -10,5 +10,4 @@ Pod::Spec.new do |spec|
   spec.source                 = { :git => 'https://github.com/adyen/adyen-wechatpay-ios.git', :tag => version }
   spec.vendored_frameworks    = 'AdyenWeChatPayInternal.xcframework'
   spec.ios.deployment_target  = '10.0'
-
 end
