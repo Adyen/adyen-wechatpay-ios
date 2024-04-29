@@ -11,12 +11,14 @@ let package = Package(
     products: [
         .library(
             name: "AdyenWeChatPayInternal",
-            targets: ["AdyenWeChatPayInternal"])
+            targets: ["AdyenWeChatPayInternal"]
+        )
     ],
     dependencies: [],
     targets: [
         .binaryTarget(
             name: "AdyenWeChatPayInternal",
             path: "AdyenWeChatPayInternal.xcframework"
+        )
     ]
 )
