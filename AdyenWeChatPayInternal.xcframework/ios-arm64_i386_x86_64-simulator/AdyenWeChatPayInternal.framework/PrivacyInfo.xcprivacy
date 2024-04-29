@@ -14,17 +14,13 @@
 		</dict>
 	</array>
 	<key>NSPrivacyCollectedDataTypes</key>
-    <array>
-        <dict>
-            <key>NSPrivacyCollectedDataType</key>
-            <false/>
-            <key>NSPrivacyCollectedDataTypeLinked</key>
-            <false/>
-            <key>NSPrivacyCollectedDataTypeTracking</key>
-            <false/>
-            <key>NSPrivacyCollectedDataTypePurposes</key>
-            <false/>
-        </dict>
-    </array>
+	<array>
+		<dict>
+			<key>NSPrivacyCollectedDataTypeLinked</key>
+			<false/>
+			<key>NSPrivacyCollectedDataTypeTracking</key>
+			<false/>
+		</dict>
+	</array>
 </dict>
 </plist>
