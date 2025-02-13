@@ -1,0 +1,21 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AdyenWeChatPayInternal",
+    "printedName": "AdyenWeChatPayInternal",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AdyenWeChatPayInternal",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

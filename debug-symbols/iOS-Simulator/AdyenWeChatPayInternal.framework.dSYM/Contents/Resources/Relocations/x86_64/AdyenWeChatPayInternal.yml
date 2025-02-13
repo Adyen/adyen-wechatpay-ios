@@ -1,0 +1,7 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/vladimir/source/AdyenWeChatPayInternal/Build/Intermediates.noindex/ArchiveIntermediates/AdyenWeChatPayInternal/InstallationBuildProductsLocation/Library/Frameworks/AdyenWeChatPayInternal.framework/AdyenWeChatPayInternal'
+relocations:
+  - { offset: 0x33, size: 0x8, addend: 0x0, symName: _AdyenWeChatPayInternalVersionString, symObjAddr: 0x0, symBinAddr: 0x4CF0, symSize: 0x0 }
+  - { offset: 0x67, size: 0x8, addend: 0x0, symName: _AdyenWeChatPayInternalVersionNumber, symObjAddr: 0x48, symBinAddr: 0x4D38, symSize: 0x0 }
+...
