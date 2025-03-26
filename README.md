@@ -10,7 +10,7 @@ Embeded WeChat SDK versions: 2.0.4
 
 - For embedding the XCFramework into an Xcode project, Xcode 11+ is required.
 - For integrating through Swift Package Manager, Xcode 12+ is required.
-- Supports iOS 10+.
+- Supports iOS 12+.
 
 ## Installation
 
