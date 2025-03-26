@@ -9,6 +9,6 @@ Pod::Spec.new do |spec|
   spec.summary                = 'Provides an XCFramework around the static library for more convenient importing of the WeChat Pay SDK.'
   spec.source                 = { :git => 'https://github.com/adyen/adyen-wechatpay-ios.git', :tag => version }
   spec.vendored_frameworks    = 'AdyenWeChatPayInternal.xcframework'
-  spec.ios.deployment_target  = '10.0'
+  spec.ios.deployment_target  = '12.0'
 
 end
