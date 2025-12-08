@@ -1,5 +1,9 @@
 name: Publish AdyenWeChatPayInternal.podspec
 on: [workflow_dispatch]
+
+permissions:
+  contents: read
+
 jobs:
 
   publish:
